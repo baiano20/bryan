@@ -1,0 +1,17 @@
+body {background-color:green;
+}
+h1 {text-align: center;
+color: yellow;
+}
+h2 {text-align: center;
+color: brown;}
+#imal {border: 10px;
+border-color: aqua;
+border-style: solid;
+width: 23%;
+margin-left: 35% ;
+}
+h3 {text-align: center;
+color: red;
+border: 10px;
+}
